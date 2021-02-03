@@ -1,0 +1,7 @@
+{
+  "name": "PokedexApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
