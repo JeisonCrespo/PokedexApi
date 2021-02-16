@@ -1,7 +1,7 @@
 {
-  "name": "PokedexApi",
+  "name": "Pokedex-app",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Jeison Crespo",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",

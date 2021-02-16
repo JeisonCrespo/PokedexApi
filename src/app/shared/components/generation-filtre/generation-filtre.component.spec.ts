@@ -1,19 +1,19 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { IonicModule } from '@ionic/angular';
 
-import { GenerationFilterComponent } from './generation-filter.component';
+import { GenerationFiltreComponent } from './generation-filtre.component';
 
-describe('GenerationFilterComponent', () => {
-  let component: GenerationFilterComponent;
-  let fixture: ComponentFixture<GenerationFilterComponent>;
+describe('GenerationFiltreComponent', () => {
+  let component: GenerationFiltreComponent;
+  let fixture: ComponentFixture<GenerationFiltreComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ GenerationFilterComponent ],
+      declarations: [ GenerationFiltreComponent ],
       imports: [IonicModule.forRoot()]
     }).compileComponents();
 
-    fixture = TestBed.createComponent(GenerationFilterComponent);
+    fixture = TestBed.createComponent(GenerationFiltreComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   }));
